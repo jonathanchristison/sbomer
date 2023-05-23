@@ -10,8 +10,8 @@
     "generator": "DOMINO",
     "errata": {
       "productName": "RHBQ",
-      "productVersion": "RHEL-8-RHBQ-2.13",
-      "productVariant": "8Base-RHBQ-2.13"
+      "productVersion": "Middleware-RHBQ-2.13",
+      "productVariant": "8Base-MW-RHBQ-2.13"
     }
   }
 }
